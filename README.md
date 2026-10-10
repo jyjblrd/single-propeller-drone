@@ -15,6 +15,11 @@ A drone that flies on a single propeller, mounted on top of a finned body.
   <img src="media/test-stand.gif" alt="Rotor spinning on the test stand" width="720">
 </p>
 
+## Firmware
+
+- [jyjblrd/ardupilot](https://github.com/jyjblrd/ardupilot): ArduPilot fork (flight controller)
+- [jyjblrd/moteus](https://github.com/jyjblrd/moteus): moteus fork (motor controller)
+
 ## Files
 
 | Part | Fusion 360 | STEP |

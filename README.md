@@ -9,6 +9,10 @@ A drone that flies on a single propeller, mounted on top of a finned body.
   </picture>
 </p>
 
+## Test stand
+
+[▶ Rotor on the test stand (3 s, MP4)](media/test-stand.mp4)
+
 ## Files
 
 | Part | Fusion 360 | STEP |

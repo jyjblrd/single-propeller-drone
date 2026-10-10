@@ -4,8 +4,8 @@ A drone that flies on a single propeller, mounted on top of a finned body.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/drone-dark.gif">
-    <img src="media/drone-light.gif" alt="The drone floating and spinning" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="media/drone-dark.png">
+    <img src="media/drone-light.png" alt="The drone" width="420">
   </picture>
 </p>
 

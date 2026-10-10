@@ -11,10 +11,9 @@ A drone that flies on a single propeller, mounted on top of a finned body.
 
 ## Test stand
 
-
-https://github.com/user-attachments/assets/4098c346-125b-4ea0-8559-b9974820a603
-
-
+<p align="center">
+  <img src="media/test-stand.gif" alt="Rotor spinning on the test stand" width="720">
+</p>
 
 ## Files
 
